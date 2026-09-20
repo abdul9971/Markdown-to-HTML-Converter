@@ -7,7 +7,8 @@ The application converts markdown syntax into HTML in real time, displays the ge
 
 ## 📸 Preview
 
-> Add a screenshot of the project here.
+<img width="943" height="488" alt="image" src="https://github.com/user-attachments/assets/619e9bec-672e-4f5b-8c79-994a82e4c50d" />
+
 
 ```text
 Markdown Input  →  Raw HTML Output  →  Live HTML Preview
